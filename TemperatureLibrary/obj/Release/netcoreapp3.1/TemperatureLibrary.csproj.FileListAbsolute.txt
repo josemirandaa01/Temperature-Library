@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\bin\Release\netcoreapp3.1\TemperatureLibrary.deps.json
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\bin\Release\netcoreapp3.1\TemperatureLibrary.dll
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\bin\Release\netcoreapp3.1\TemperatureLibrary.pdb
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.AssemblyInfo.cs
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.dll
+C:\Users\Jose\source\repos\TestTemperature\TemperatureLibrary\obj\Release\netcoreapp3.1\TemperatureLibrary.pdb
