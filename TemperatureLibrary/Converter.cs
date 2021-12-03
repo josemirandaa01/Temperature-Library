@@ -29,6 +29,49 @@ namespace TemperatureLibrary
             return 0;
         }
 
+        public double ToC(double x, string y)
+        {
+            if (y == ("kelvin"))
+            {
+                kelvin = x - 273.15; ;
+                return kelvin;
+            }
+            else if (y == "celsius")
+            {
+                celsius = x;
+                return celsius;
+            }
+            else if (y == "fahrenheit")
+            {
+                celsius = (x - 32) * 5 / 9; ;
+                return celsius;
+            }
+
+            return 0;
+
+        }
+
+        public double ToK(double x, string y)
+        {
+            if (y == ("kelvin"))
+            {
+                kelvin = x;
+                return kelvin;
+            }
+            else if (y == "celsius")
+            {
+                kelvin = x + 273.15;
+                return kelvin;
+            }
+            else if (y == "fahrenheit")
+            {
+                kelvin = (x - 32) * 5 / 9 + 273.15;
+                return kelvin;
+            }
+
+            return 0;
+
+        }
 
     }
 }
